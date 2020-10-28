@@ -1,8 +1,8 @@
-package br.mil.ccarj.cursos.api.api.controller.http.advices;
+package br.mil.ccarj.cursos.api.api.http.advices;
 
-import br.mil.ccarj.cursos.api.exception.BusinessException;
-import br.mil.ccarj.cursos.api.exception.NotFoundException;
-import br.mil.ccarj.cursos.api.exception.ValidationException;
+import br.mil.ccarj.cursos.api.domain.exception.BusinessException;
+import br.mil.ccarj.cursos.api.domain.exception.NotFoundException;
+import br.mil.ccarj.cursos.api.domain.exception.ValidationException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

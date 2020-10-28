@@ -1,6 +1,7 @@
-package br.mil.ccarj.cursos.api.service;
+package br.mil.ccarj.cursos.api.domain.service;
 
-import br.mil.ccarj.cursos.api.model.Curso;
+
+import br.mil.ccarj.cursos.api.domain.model.Curso;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

@@ -1,7 +1,9 @@
 package br.mil.ccarj.cursos.api.service;
 
-import br.mil.ccarj.cursos.api.model.Curso;
-import br.mil.ccarj.cursos.api.repository.CursoRepository;
+
+import br.mil.ccarj.cursos.api.domain.model.Curso;
+import br.mil.ccarj.cursos.api.domain.repository.CursoRepository;
+import br.mil.ccarj.cursos.api.domain.service.CursoServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

@@ -1,7 +1,7 @@
 package br.mil.ccarj.cursos.api;
 
-import br.mil.ccarj.cursos.api.util.MessageUtil;
-import br.mil.ccarj.cursos.api.util.QueryDslHelper;
+import br.mil.ccarj.cursos.api.core.util.MessageUtil;
+import br.mil.ccarj.cursos.api.core.util.QueryDslHelper;
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

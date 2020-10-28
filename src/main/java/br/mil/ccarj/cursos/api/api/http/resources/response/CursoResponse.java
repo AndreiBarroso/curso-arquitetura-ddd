@@ -1,4 +1,4 @@
-package br.mil.ccarj.cursos.api.api.controller.http.resources.response;
+package br.mil.ccarj.cursos.api.api.http.resources.response;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;

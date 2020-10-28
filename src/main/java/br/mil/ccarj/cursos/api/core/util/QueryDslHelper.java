@@ -1,4 +1,4 @@
-package br.mil.ccarj.cursos.api.util;
+package br.mil.ccarj.cursos.api.core.util;
 
 import com.querydsl.core.BooleanBuilder;
 import com.querydsl.core.types.OrderSpecifier;

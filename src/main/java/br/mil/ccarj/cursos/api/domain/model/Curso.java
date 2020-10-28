@@ -1,4 +1,4 @@
-package br.mil.ccarj.cursos.api.model;
+package br.mil.ccarj.cursos.api.domain.model;
 
 
 import lombok.*;

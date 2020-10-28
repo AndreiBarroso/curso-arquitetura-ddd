@@ -1,4 +1,4 @@
-package br.mil.ccarj.cursos.api.exception;
+package br.mil.ccarj.cursos.api.domain.exception;
 
 import java.util.Map;
 

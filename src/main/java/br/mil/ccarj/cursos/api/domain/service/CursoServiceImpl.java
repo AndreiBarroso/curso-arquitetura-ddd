@@ -1,9 +1,10 @@
-package br.mil.ccarj.cursos.api.service;
+package br.mil.ccarj.cursos.api.domain.service;
 
-import br.mil.ccarj.cursos.api.exception.NotFoundException;
-import br.mil.ccarj.cursos.api.model.Curso;
-import br.mil.ccarj.cursos.api.repository.CursoRepository;
-import br.mil.ccarj.cursos.api.util.MessageUtil;
+
+import br.mil.ccarj.cursos.api.domain.exception.NotFoundException;
+import br.mil.ccarj.cursos.api.domain.model.Curso;
+import br.mil.ccarj.cursos.api.domain.repository.CursoRepository;
+import org.aspectj.bridge.MessageUtil;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;

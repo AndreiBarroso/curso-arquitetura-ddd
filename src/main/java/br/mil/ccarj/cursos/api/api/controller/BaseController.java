@@ -1,6 +1,6 @@
 package br.mil.ccarj.cursos.api.api.controller;
 
-import br.mil.ccarj.cursos.api.exception.ValidationException;
+import br.mil.ccarj.cursos.api.domain.exception.ValidationException;
 import org.json.JSONObject;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

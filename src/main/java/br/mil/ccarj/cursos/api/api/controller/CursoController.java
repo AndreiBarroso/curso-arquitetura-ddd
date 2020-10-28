@@ -1,9 +1,9 @@
 package br.mil.ccarj.cursos.api.api.controller;
 
-import br.mil.ccarj.cursos.api.api.controller.http.resources.request.CursoRequest;
-import br.mil.ccarj.cursos.api.api.controller.http.resources.response.CursoResponse;
-import br.mil.ccarj.cursos.api.model.Curso;
-import br.mil.ccarj.cursos.api.service.CursosService;
+import br.mil.ccarj.cursos.api.api.http.resources.request.CursoRequest;
+import br.mil.ccarj.cursos.api.api.http.resources.response.CursoResponse;
+import br.mil.ccarj.cursos.api.domain.model.Curso;
+import br.mil.ccarj.cursos.api.domain.service.CursosService;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
